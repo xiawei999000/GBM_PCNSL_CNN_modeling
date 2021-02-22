@@ -1,7 +1,7 @@
 # GBM_PCNSL_CNN_modeling
 Deep Learning for Automatic Differential Diagnosis of Primary Central Nervous System Lymphoma and Glioblastoma: Multi-parametric MRI based Convolutional Neural Network Model
 
-<img src="https://github.com/xiawei999000/GBM_PCNSL_CNN_modeling/blob/main/work_flow.jpg" alt="work_flow" title="work_flow" width="1290" height="695" />
+<img src="https://github.com/xiawei999000/GBM_PCNSL_CNN_modeling/blob/main/work_flow.jpg" alt="work_flow" title="work_flow" width="600" height="400" />
 
 # code structure
 > [CNN_modeling/](https://github.com/xiawei999000/GBM_PCNSL_CNN_modeling/tree/main/CNN_modeling): CNN model training, test and a few sample images.
