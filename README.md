@@ -3,6 +3,8 @@ Deep Learning for Automatic Differential Diagnosis of Primary Central Nervous Sy
 
 <img src="https://github.com/xiawei999000/GBM_PCNSL_CNN_modeling/blob/main/work_flow.jpg" alt="work_flow" title="work_flow" width="800" height="400" />
 
+The schematic workflow of CNN models development. The first step consisted of a series of automatic image preprocessing procedures, including image registration, brain extraction, and standardization. After image preprocessing, DenseNet based CNN models were developed by transfer learning, and a single-parametric CNN model was built using CE-T1WI, FLAIR, and ADC, respectively. A multi-parametric CNN model was developed using image-level fusion and decision-level fusion, respectively.
+
 # code structure
 > [CNN_modeling/](https://github.com/xiawei999000/GBM_PCNSL_CNN_modeling/tree/main/CNN_modeling): CNN model training, test and a few sample images.
 > >[CNN_training_program/](https://github.com/xiawei999000/GBM_PCNSL_CNN_modeling/tree/main/CNN_modeling/CNN_training_program): CNN model training, heat map generation, and a link for sample images.
