@@ -1,0 +1,2 @@
+A few sample images for CNN model training can be downloaded from the link below:
+https://drive.google.com/file/d/1obUQmPo7pRrpjipPcmXpMhI8HLbrdcCS/view?usp=sharing
