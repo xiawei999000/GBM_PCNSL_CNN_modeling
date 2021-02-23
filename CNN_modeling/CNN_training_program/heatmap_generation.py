@@ -1,6 +1,6 @@
 
 '''
-@File        : Densenet_classification.py
+@File        : heatmap_generation.py
 @Author      : xiaw@sibet.ac.cn
 @Date        : 2021/02/12
 @Description :
